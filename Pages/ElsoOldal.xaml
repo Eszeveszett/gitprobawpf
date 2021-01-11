@@ -9,6 +9,8 @@
       Title="ElsoOldal">
 
     <Grid>
-        
+        <StackPanel>
+            <Label Content="Másik Cimke"/>
+        </StackPanel>
     </Grid>
 </Page>
