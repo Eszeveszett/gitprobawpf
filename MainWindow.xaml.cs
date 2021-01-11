@@ -20,6 +20,7 @@ namespace gitprobawpf
     /// </summary>
     public partial class MainWindow : Window
     {
+        // Git próba
         public MainWindow()
         {
             InitializeComponent();

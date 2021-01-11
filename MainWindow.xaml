@@ -8,5 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 
+        <StackPanel>
+            <Label Content="VS Gith Próba"/>
+        </StackPanel>
     </Grid>
 </Window>
