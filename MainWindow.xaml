@@ -10,6 +10,7 @@
 
         <StackPanel>
             <Label Content="VS Gith Próba"/>
+            <Label Content="Újabb cimke"/>
         </StackPanel>
     </Grid>
 </Window>
