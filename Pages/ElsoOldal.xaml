@@ -6,9 +6,11 @@
       xmlns:local="clr-namespace:gitprobawpf.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="ElsoOldal">
+      Title="ElsoOldal" Background="Aqua">
 
     <Grid>
-        
+        <StackPanel>
+            <Label Content="Cimke"/>
+        </StackPanel>
     </Grid>
 </Page>
